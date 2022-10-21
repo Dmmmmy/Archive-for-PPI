@@ -1,0 +1,68 @@
+{
+    "websites": [
+        {
+            "domain": "www.sbb.ch",
+            "privacy_policy_url": "https://www.sbb.ch/en/meta/legallines/datenschutz.html",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Financial Data",
+                "Intimate Data",
+                "Biometric Data",
+                "Collected Data",
+                "Received Data",
+                "Data Transfer",
+                "Profiling",
+                "Marketing",
+                "Product Developement",
+                "Other"
+            ]
+        },
+        {
+            "domain": "www.a-link.ch",
+            "privacy_policy_url": "https://www.a-link.ch/privacypolicy",
+            "annotations": [
+                "General Data",
+                "Received Data",
+                "Data Transfer",
+                "Product Developement",
+                "Other"
+            ]
+        },
+        {
+            "domain": "www.overleaf.com",
+            "privacy_policy_url": "https://www.overleaf.com/legal#Privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Data Transfer",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Other"
+            ]
+        },
+        {
+            "domain": "www.deepl.com",
+            "privacy_policy_url": "https://www.deepl.com/en/privacy",
+            "annotations": [
+                "Health Data",
+                "Intimate Data",
+                "General Data",
+                "Location Data",
+                "Financial Data",
+                "Received Data",
+                "Collected Data",
+                "Data Transfer",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Other"
+            ]
+        }
+    ]
+}

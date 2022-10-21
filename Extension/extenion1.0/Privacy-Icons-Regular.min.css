@@ -1,0 +1,74 @@
+/*! 
+*pi-
+* @version 1.0.1 
+* @author Privacy Icons https://privacy-icons.ch
+* @copyright Copyright (c) 2019 - 2025 Verein Privacy Icons 
+* @license - hhttps://privacy-icons.ch/license/
+*/@font-face{font-family:Privacy-Icons-Regular;font-weight:400;font-style:Regular;src:url("fonts/Privacy-Icons-Regular.woff2") format("woff2"),url("fonts/Privacy-Icons-Regular.woff") format("woff")}[class*=" pi-"],[class^=pi-]
+{font-family:Privacy-Icons-Regular!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;white-space:nowrap;word-wrap:normal;direction:ltr;line-height:1;-webkit-font-feature-settings:"liga";-webkit-font-smoothing:antialiased;}
+
+.pi-general-data:before{content: "\F000";}
+.pi-general-data-neg:before{content: "\F001";}
+.pi-financial-data:before{content: "\F002";}
+.pi-financial-data-neg:before{content: "\F003";}
+.pi-health-data:before{content: "\F004";}
+.pi-health-data-neg:before{content: "\F005";}
+.pi-location-data:before{content: "\F006";}
+.pi-location-data-neg:before{content: "\F007";}
+.pi-biometric-data:before{content: "\F008";}
+.pi-biometric-data-neg:before{content: "\F009";}
+.pi-intimate-data:before{content: "\F010";}
+.pi-intimate-data-neg:before{content: "\F011";}
+.pi-provided-data:before{content: "\F012";}
+.pi-provided-data-neg:before{content: "\F013";}
+.pi-collected-data:before{content: "\F014";}
+.pi-collected-data-neg:before{content: "\F015";}
+.pi-received-data:before{content: "\F016";}
+.pi-received-data-neg:before{content: "\F017";}
+.pi-marketing:before{content: "\F018";}
+.pi-marketing-neg:before{content: "\F019";}
+.pi-product-development:before{content: "\F020";}
+.pi-product-development-neg:before{content: "\F021";}
+.pi-other-purposes:before{content: "\F022";}
+.pi-other-purposes-neg:before{content: "\F023";}
+.pi-automated-decision-making:before{content: "\F034";}
+.pi-automated-decision-making-neg:before{content: "\F035";}
+.pi-profiling:before{content: "\F036";}
+.pi-profiling-neg:before{content: "\F037";}
+.pi-data-transfers:before{content: "\F030";}
+.pi-data-transfers-neg:before{content: "\F031";}
+.pi-data-sale:before{content: "\F032";}
+.pi-data-sale-neg:before{content: "\F033";}
+.pi-switzerland:before{content: "\F024";}
+.pi-switzerland-neg:before{content: "\F025";}
+.pi-europe:before{content: "\F038";}
+.pi-europe-neg:before{content: "\F039";}
+.pi-europe-switzerland:before{content: "\F026";}
+.pi-europe-switzerland-neg:before{content: "\F027";}
+.pi-worldwide:before{content: "\F028";}
+.pi-worldwide-neg:before{content: "\F029";}
+.pi-xs{font-size:.5em}
+.pi-sm{font-size:.75em}
+.pi-md{font-size:1.25em}
+.pi-lg{font-size:1.5em}
+.pi-1x{font-size:1em}
+.pi-2x{font-size:2em}
+.pi-3x{font-size:3em}
+.pi-4x{font-size:4em}
+.pi-5x{font-size:5em}
+.pi-6x{font-size:6em}
+.pi-7x{font-size:7em}
+.pi-8x{font-size:8em}
+.pi-9x{font-size:9em}
+.pi-10x{font-size:10em}
+.pi-fw{text-align:center;width:1.25em}
+.pi-ul{list-style-type:none;padding-left:0;margin-left:0}
+.pi-ul>li{position:relative;line-height:2em}
+.pi-{display:inline-block;vertical-align:middle}
+.pi-border{border:solid .08em #f1f1f1;border-radius:.1em;padding:.2em .25em .15em}
+.pi-pull-left{float:left}
+.pi-pull-right{float:right}
+.pi-.pi-pull-left{margin-right:.3em}
+.pi-.pi-pull-right{margin-left:.3em}
+.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}
+.sr-only-focusable:active, .sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}

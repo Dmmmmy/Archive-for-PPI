@@ -1,0 +1,19 @@
+{
+    "websites":[
+        {
+            "id":1,
+            "domain":"http://www.sci.news/",
+            "annotations":["General data","Financial data","Health data"]
+        },
+        {
+            "id":2,
+            "domain":"http://www.redorbit.com/",
+            "annotations":["Financial data","Location data" ,"Health data"]
+        },
+        {
+            "id":3,
+            "domain":"http://privacy.aol.com/",
+            "annotations":["General data","Financial data","Location data" ,"Health data"]
+        }
+]
+}

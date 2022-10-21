@@ -1,0 +1,1491 @@
+{
+    "websites": [
+        {
+            "id": 1,
+            "domain": "http://www.sci-news.com/privacy-policy.html",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Marketing",
+                "Product Developement",
+                "No Data Transfer"
+            ]
+        },
+        {
+            "id": 2,
+            "domain": "http://www.redorbit.com/privacy_statement/",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 3,
+            "domain": "http://privacy.aol.com/privacy-policy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 4,
+            "domain": "http://www.honda.com/site/site_privacy.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 5,
+            "domain": "http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 6,
+            "domain": "http://privacy.tribune.com",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 7,
+            "domain": "http://www.highgearmedia.com/privacypolicy",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 8,
+            "domain": "http://static.freep.com/privacy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 9,
+            "domain": "http://www.enthusiastnetwork.com/privacy/",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 10,
+            "domain": "https://www.allstate.com/about/privacy-statement-aic.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Health Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 11,
+            "domain": "http://acbj.com/privacy/#VI",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Location Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 12,
+            "domain": "http://www.gwdocs.com/privacy",
+            "annotations": [
+                "General Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 13,
+            "domain": "http://www.fool.com/legal/privacy-statement.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 14,
+            "domain": "http://www.zacks.com/privacy.php",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Other",
+                "Product Developement",
+                "Marketing",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 15,
+            "domain": "https://www.bankofamerica.com/privacy/online-privacy-notice.go",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Health Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 16,
+            "domain": "https://www.chasepaymentech.com/privacypolicy",
+            "annotations": [
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 17,
+            "domain": "https://subscription.timeinc.com/storefront/privacy/fortune/generic_privacy_new.html?dnp-source=I",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 18,
+            "domain": "https://instagram.com/about/legal/privacy/",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 19,
+            "domain": "http://thehill.com/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "General Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 20,
+            "domain": "https://policies.yahoo.com/us/en/yahoo/privacy/index.htm",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 21,
+            "domain": "http://www.miaminewtimes.com/about/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 22,
+            "domain": "http://www.condenast.com/privacy-policy#privacypolicy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 23,
+            "domain": "http://www.rockstargames.com/privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 24,
+            "domain": "http://store.steampowered.com/privacy_agreement/",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 25,
+            "domain": "http://www.ticketmaster.com/h/privacy.html?tm_link=tm_homeA_i_pp",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 26,
+            "domain": "http://www.jibjab.com/about/privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 27,
+            "domain": "https://www.geocaching.com/about/privacypolicy.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 28,
+            "domain": "http://taylorswift.com/taylor-privacy-policy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 29,
+            "domain": "http://www.microsoft.com/privacystatement/en-us/BingandMSN/default.aspx",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 30,
+            "domain": "http://www.post-gazette.com/privacypolicy/",
+            "annotations": [
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 31,
+            "domain": "http://www.sltrib.com/info/privacy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 32,
+            "domain": "http://www.sidearmsports.com/privacypolicy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 33,
+            "domain": "http://www.dailyillini.com/page/privacy",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 34,
+            "domain": "http://www.adweek.com/privacy-policy",
+            "annotations": [
+                "Intimate Data",
+                "No Location Data",
+                "Financial Data",
+                "General Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 35,
+            "domain": "http://www.wsmv.com/story/18990/this-web-sites-privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 36,
+            "domain": "http://www.tulsaworld.com/site/privacy.html",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 37,
+            "domain": "http://www.dailynews.com/privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 38,
+            "domain": "http://www.lids.com/HelpDesk/Security/PrivacyPolicy",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 39,
+            "domain": "http://www.sports-reference.com/privacy.shtml",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 40,
+            "domain": "http://www.foxsports.com/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 41,
+            "domain": "http://www.latinpost.com/privacypolicy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 42,
+            "domain": "http://mlb.mlb.com/mlb/help/mlb_help_about_privacy.jsp",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 43,
+            "domain": "https://disneyprivacycenter.com/privacy-policy-translations/english/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 44,
+            "domain": "https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Location Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 45,
+            "domain": "http://dictionary.reference.com/privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 46,
+            "domain": "http://www.theatlantic.com/privacy-policy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 47,
+            "domain": "http://www.imdb.com/privacy?ref_=ft_pvc",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 48,
+            "domain": "http://legal.kinja.com/privacy-policy-90190742",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "General Data",
+                "Received Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 49,
+            "domain": "http://www.nytimes.com/privacy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 50,
+            "domain": "https://www.reddit.com/help/privacypolicy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 51,
+            "domain": "https://subscription.timeinc.com/storefront/privacy/essence/generic_privacy_new.html",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Location Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 52,
+            "domain": "http://www.ocregister.com/privacy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 53,
+            "domain": "http://www.voxmedia.com/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 54,
+            "domain": "https://www.tgifridays.com/privacy",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 55,
+            "domain": "http://www.nbcuniversal.com/privacy/full-privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 56,
+            "domain": "http://corporate.walmart.com/privacy-security/walmart-privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 57,
+            "domain": "http://www.vikings.com/footer/privacy-policy.html",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 58,
+            "domain": "http://www.washingtonian.com/privacy-policy/",
+            "annotations": [
+                "Intimate Data",
+                "General Data",
+                "Location Data",
+                "Received Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 59,
+            "domain": "http://www.barnesandnoble.com/h/help/privacy-policy-complete",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 60,
+            "domain": "https://boardgamegeek.com/privacy",
+            "annotations": [
+                "Intimate Data",
+                "General Data",
+                "Location Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 61,
+            "domain": "http://www.fredericknewspost.com/site/privacy.html",
+            "annotations": [
+                "Intimate Data",
+                "No Location Data",
+                "Financial Data",
+                "General Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 62,
+            "domain": "http://www.buffalowildwings.com/en/privacy-policy-terms/",
+            "annotations": [
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 63,
+            "domain": "https://abita.com/sign_up/privacy_policy",
+            "annotations": [
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 64,
+            "domain": "http://www.coffeereview.com/privacy/",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 65,
+            "domain": "http://www.communitycoffee.com/termsofuse",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "No Marketing",
+                "Product Developement",
+                "Profiling",
+                "No Data Transfer"
+            ]
+        },
+        {
+            "id": 66,
+            "domain": "https://www.cariboucoffee.com/footer-folder/privacy",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 67,
+            "domain": "http://www.esquire.com/about/privacy-policy",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 68,
+            "domain": "https://www.google.com/intl/en/policies/privacy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "No Health Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 69,
+            "domain": "http://liquor.com/privacy-policy/",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 70,
+            "domain": "http://www.dairyqueen.com/us-en/Privacy-Statement/",
+            "annotations": [
+                "Intimate Data",
+                "General Data",
+                "Financial Data",
+                "Location Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 71,
+            "domain": "https://www.playstation.com/en-us/legal/privacy-policy/",
+            "annotations": [
+                "Financial Data",
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 72,
+            "domain": "http://www.gamestop.com/gs/help/PrivacyPolicy.aspx",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 73,
+            "domain": "http://legalterms.cbsinteractive.com/privacy",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 74,
+            "domain": "http://www.thefreedictionary.com/privacy-policy.htm",
+            "annotations": [
+                "Intimate Data",
+                "No Health Data",
+                "Financial Data",
+                "General Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 75,
+            "domain": "http://www.randomhouse.com/about/privacy.html",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 76,
+            "domain": "http://www.restaurantnews.com/privacy-policy/",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Other",
+                "Marketing",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 77,
+            "domain": "http://www.military.com/about-us/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 78,
+            "domain": "http://www.tangeroutlet.com/privacy",
+            "annotations": [
+                "General Data",
+                "No Data Transfer"
+            ]
+        },
+        {
+            "id": 79,
+            "domain": "http://www.meredith.com/privacy.html",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 80,
+            "domain": "http://www.dogbreedinfo.com/privacypolicy.htm",
+            "annotations": [
+                "No Intimate Data",
+                "General Data",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 81,
+            "domain": "http://minecraft.gamepedia.com/Minecraft_Wiki:Privacy_policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 82,
+            "domain": "http://www.eatchicken.com/privacy-policy.aspx",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Collected Data",
+                "Product Developement"
+            ]
+        },
+        {
+            "id": 83,
+            "domain": "http://www.kraftrecipes.com/about/privacynotice.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 84,
+            "domain": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C",
+            "annotations": [
+                "Financial Data",
+                "General Data",
+                "Intimate Data",
+                "Collected Data",
+                "Marketing",
+                "Product Developement",
+                "No Data Transfer"
+            ]
+        },
+        {
+            "id": 85,
+            "domain": "http://www.ironhorsevineyards.com/Online-Policies/Privacy-Policy",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Marketing",
+                "Product Developement",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 86,
+            "domain": "http://www.sheknows.com/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 87,
+            "domain": "http://disinfo.com/privacy/",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 88,
+            "domain": "https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 89,
+            "domain": "http://www.naturalnews.com/PrivacyPolicy.html",
+            "annotations": [
+                "No General Data",
+                "No Marketing",
+                "No Data Transfer"
+            ]
+        },
+        {
+            "id": 90,
+            "domain": "http://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Health Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 91,
+            "domain": "http://www.uptodate.com/home/privacy-policy",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 92,
+            "domain": "http://www.internetbrands.com/privacy/privacy-main.html",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Health Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 93,
+            "domain": "http://www.lynda.com/aboutus/otl-privacy.aspx",
+            "annotations": [
+                "Location Data",
+                "Intimate Data",
+                "Financial Data",
+                "General Data",
+                "Received Data",
+                "Collected Data",
+                "Product Developement",
+                "Other",
+                "Marketing",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 94,
+            "domain": "http://solarviews.com/eng/privacy.htm",
+            "annotations": [
+                "General Data",
+                "Intimate Data",
+                "Marketing",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 95,
+            "domain": "http://www.neworleansonline.com/notmc/privacy.html",
+            "annotations": [
+                "Location Data",
+                "General Data",
+                "Intimate Data",
+                "Received Data",
+                "Collected Data",
+                "Other",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "Data Transfer"
+            ]
+        },
+        {
+            "id": 96,
+            "domain": "http://mohegansun.com/about-mohegan-sun/privacy-policy.html",
+            "annotations": [
+                "General Data",
+                "Location Data",
+                "Marketing",
+                "Product Developement",
+                "Profiling",
+                "No Data Transfer"
+            ]
+        }
+    ]
+}
