@@ -1,0 +1,34 @@
+{"links": [
+
+    {
+
+        "name": "Zara",
+
+        "url": "https://www.zara.com/ch/",
+
+        "policy_ref": "https://static.zara.net/static//pdfs/CH/privacy-policy/privacy-policy-en_CH-20220702.pdf"
+
+    },
+
+    {
+
+        "name": "H&M",
+
+        "url": "https://www.hm.com/is/",
+
+        "policy_ref": "https://www.hm.com/is/customer-service/legal-privacy/privacy-notice/"
+
+    },
+
+    {
+
+        "name": "BBC",
+
+        "url": "https://www.bbc.com/",
+
+        "policy_ref": "https://www.bbc.co.uk/usingthebbc/privacy-policy/"
+
+    }
+
+]
+}
